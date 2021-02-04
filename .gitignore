@@ -1,0 +1,4 @@
+.vscode/
+build/
+gdbus/gdbusdemo_gen.c
+gdbus/gdbusdemo_gen.h

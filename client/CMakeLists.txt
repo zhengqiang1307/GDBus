@@ -5,6 +5,7 @@ INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/includes)
 INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/gdbus)
 INCLUDE_DIRECTORIES(/usr/include/glib-2.0)
 INCLUDE_DIRECTORIES(/usr/lib/glib-2.0/include)
+INCLUDE_DIRECTORIES(/usr/lib64/glib-2.0/include)
 INCLUDE_DIRECTORIES(/usr/include/gio-unix-2.0)
 INCLUDE_DIRECTORIES(/usr/lib/x86_64-linux-gnu/glib-2.0/include/)
 
